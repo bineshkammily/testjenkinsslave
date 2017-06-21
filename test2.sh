@@ -1,1 +1,1 @@
-echo "test2.sh"
+echo "test2.sh added"
